@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tarefa-teste-Xunit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc657f91f3e1ba00f0b3442773b08bb8bd3b49df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+589631091e86b6c962b114da1c043454b60452a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("tarefa-teste-Xunit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tarefa-teste-Xunit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -24,5 +24,12 @@ namespace tarefa_teste_Xunit
             double resultado = Calculadora.Subtrair(10, 5);
             Assert.Equal(5, resultado);
         }
+
+        [Fact]
+        public void TesteMultiplicar()
+        {
+            double resultado = Calculadora.Multiplicar(10, 5);
+            Assert.Equal(50, resultado);
+        }
     }
 }
