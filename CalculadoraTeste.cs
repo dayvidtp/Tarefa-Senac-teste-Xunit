@@ -38,5 +38,13 @@ namespace tarefa_teste_Xunit
             double resultado = Calculadora.Dividir(10, 5);
             Assert.Equal(2, resultado);
         }
+
+        //Teste se a divisão por 0 é igual a Infinito
+        [Fact]
+        public void TesteDividir2()
+        {
+            double resultado = Calculadora.Dividir(10, 0);
+            Assert.Equal(double.PositiveInfinity, resultado);
+        }
     }
 }
