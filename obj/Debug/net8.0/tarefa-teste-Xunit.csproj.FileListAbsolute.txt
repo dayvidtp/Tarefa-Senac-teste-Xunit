@@ -97,3 +97,4 @@ C:\Users\dayvi\OneDrive\Documentos\Cursos de Programação\Senac\Testes_e_manute
 C:\Users\dayvi\OneDrive\Documentos\Cursos de Programação\Senac\Testes_e_manutencao\tarefa-teste-Xunit\obj\Debug\net8.0\tarefa-teste-Xunit.pdb
 C:\Users\dayvi\OneDrive\Documentos\Cursos de Programação\Senac\Testes_e_manutencao\tarefa-teste-Xunit\obj\Debug\net8.0\tarefa-teste-Xunit.genruntimeconfig.cache
 C:\Users\dayvi\OneDrive\Documentos\Cursos de Programação\Senac\Testes_e_manutencao\tarefa-teste-Xunit\obj\Debug\net8.0\ref\tarefa-teste-Xunit.dll
+C:\Users\dayvi\OneDrive\Documentos\Cursos de Programação\Senac\Testes_e_manutencao\tarefa-teste-Xunit\obj\Debug\net8.0\tarefa-teste-Xunit.sourcelink.json

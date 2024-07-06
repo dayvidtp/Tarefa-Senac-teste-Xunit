@@ -17,5 +17,12 @@ namespace tarefa_teste_Xunit
             //Assert ou Then (Verificação se ocorreu o esperado)
             Assert.Equal(5, resultado);
         }
+
+        [Fact]  
+        public void TesteSubtrair()
+        {
+            double resultado = Calculadora.Subtrair(10, 5);
+            Assert.Equal(5, resultado);
+        }
     }
 }
