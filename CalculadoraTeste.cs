@@ -31,5 +31,12 @@ namespace tarefa_teste_Xunit
             double resultado = Calculadora.Multiplicar(10, 5);
             Assert.Equal(50, resultado);
         }
+
+        [Fact]
+        public void TesteDividir()
+        {
+            double resultado = Calculadora.Dividir(10, 5);
+            Assert.Equal(2, resultado);
+        }
     }
 }
